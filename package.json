@@ -1,0 +1,20 @@
+{
+  "name": "liveWebView",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiga/liveWebView.git"
+  },
+  "keywords": [],
+  "author": "Chiga <chigamail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiga/liveWebView/issues"
+  },
+  "homepage": "https://github.com/chiga/liveWebView#readme"
+}
